@@ -1,0 +1,1 @@
+This is a read me for a badly written blog engine used to learn how to program in Go
